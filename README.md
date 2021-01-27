@@ -1,0 +1,7 @@
+- Переименовать .env.example в .env
+- composer install
+- php artisan key:generate
+- php artisan migrate
+- php artisan db:seed --class=RolesSeeder
+- php artisan db:seed --class=UsersSeeder
+- php artisan serve
