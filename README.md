@@ -5,5 +5,5 @@
 - php artisan db:seed --class=RolesSeeder
 - php artisan db:seed --class=UsersSeeder
 - php artisan serve
- Доступы к Админу: Логин - Admin@admin.com; Пароль - 1q2w3e4r
- Доступы к юзеру: Логин - User@user.com; Пароль - 1q2w3e4r
+- Доступы к Админу: Логин - Admin@admin.com; Пароль - 1q2w3e4r
+- Доступы к юзеру: Логин - User@user.com; Пароль - 1q2w3e4r
