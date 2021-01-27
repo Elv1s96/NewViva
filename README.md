@@ -1,4 +1,4 @@
-- Переименовать .env.example в .env. В строке DB_DATABASE= добавить имя созданной базы данных
+- Переименовать .env.example в .env. Вписать настройки своей базы данных
 - composer install
 - php artisan key:generate
 - php artisan migrate
